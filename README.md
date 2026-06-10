@@ -135,7 +135,16 @@ Analysis performed:
 
 <img src="Retention Opportunity Analysis.png" width="900">
 
+## Executive Summary
 
+The analysis identified multiple customer segments exhibiting significantly elevated churn risk.
+
+- Overall churn rate was 20.37%.
+- Germany recorded the highest churn rate (32.44%) among all geographies.
+- Female customers churned at 25.07%, compared to 16.46% for male customers.
+- Customers aged 50+ exhibited the highest churn rate (44.65%), more than double the overall churn rate.
+- Inactive customers churned at 26.85%, compared to 14.27% for active customers.
+- Customers holding 3 or more products showed unusually high churn behaviour and require further investigation.
 
 
 ## 💡 Key Insights
